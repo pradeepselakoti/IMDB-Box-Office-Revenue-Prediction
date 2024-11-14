@@ -1,0 +1,54 @@
+Model: RandomForestRegressor
+MSE: 9035524417185016.00
+R-squared: 0.50
+Explained Variance Score: 0.50
+Max Error: 905734316.46
+Mean Absolute Error: 52239163.62
+Mean Squared Log Error: 3.60
+Median Absolute Error: 25238449.37
+
+Model: LinearRegression
+MSE: 9377508226356440.00
+R-squared: 0.48
+Explained Variance Score: 0.48
+Max Error: 955999906.22
+Mean Absolute Error: 51993086.70
+Mean Squared Log Error: 23.02
+Median Absolute Error: 23338948.32
+
+Model: GradientBoostingRegressor
+MSE: 10283000618832436.00
+R-squared: 0.43
+Explained Variance Score: 0.43
+Max Error: 1117541812.86
+Mean Absolute Error: 52093331.10
+Mean Squared Log Error: 4.06
+Median Absolute Error: 24770183.58
+
+Model: XGBRegressor
+MSE: 11324318979034024.00
+R-squared: 0.37
+Explained Variance Score: 0.37
+Max Error: 1076882160.00
+Mean Absolute Error: 56896916.49
+Mean Squared Log Error: 13.61
+Median Absolute Error: 25566708.00
+
+Model: DecisionTreeRegressor
+MSE: 17552778935347414.00
+R-squared: 0.03
+Explained Variance Score: 0.03
+Max Error: 1136341397.00
+Mean Absolute Error: 69617281.43
+Mean Squared Log Error: 5.48
+Median Absolute Error: 27989896.00
+
+Model: KNeighborsRegressor
+MSE: 11785537395101006.00
+R-squared: 0.35
+Explained Variance Score: 0.35
+Max Error: 841892680.40
+Mean Absolute Error: 59984213.74
+Mean Squared Log Error: 4.01
+Median Absolute Error: 28380606.60
+
